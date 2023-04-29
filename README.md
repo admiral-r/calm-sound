@@ -13,10 +13,6 @@ It is for friends who like to hear soothing sounds while working or at bedtime
 
 bootstrap
 
-## view online 
-
-<a href="https://admiral-r.github.io/calm-sound/">calm sound</a>
-
 ---
 
 ---- The audio file has been deleted due to its large size ---
