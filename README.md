@@ -15,7 +15,7 @@ bootstrap
 
 ## view online 
 
-<a href="https://amirrajabzade.ir/calm-sound.html">calm sound</a>
+<a href="https://admiral-r.github.io/calm-sound/">calm sound</a>
 
 ---
 
